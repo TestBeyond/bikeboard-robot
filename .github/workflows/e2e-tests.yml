@@ -36,7 +36,7 @@ jobs:
         pip install -r requirements.txt
     
     - name: Install Webkit Deps
-      run: bash ./scripts/install-webkit.deps.sh
+      run: bash ./scripts/install-webkit-deps.sh
 
     - name: Browser Lib Init
       run: rfbrowser init
