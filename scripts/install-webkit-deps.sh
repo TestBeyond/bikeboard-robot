@@ -8,7 +8,7 @@ echo "📦 Instalando dependências para WebKit..."
 sudo apt-get install -y \
   libwoff1 \
   libopus0 \
-  libvpx7 \
+  libvpx6 \
   libevent-2.1-7 \
   libgstreamer-gl1.0-0 \
   libgstreamer-plugins-base1.0-0 \
@@ -24,7 +24,7 @@ sudo apt-get install -y \
   libmanette-0.2-0 \
   libgtk-4-1 \
   libgraphene-1.0-0 \
-  libavif15 \
+  libavif13 \
   libgles2 \
   libx264-dev
 
